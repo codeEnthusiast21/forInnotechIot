@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "196695490201",
+    "project_id": "abhinav-innotech",
+    "storage_bucket": "abhinav-innotech.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196695490201:android:ec79008b37d88216420208",
+        "android_client_info": {
+          "package_name": "com.example.abhinavinnotech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-3PILC19ql4JrMYDKcUIhRiiWQKdtumE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
